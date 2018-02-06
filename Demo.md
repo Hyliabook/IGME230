@@ -2,4 +2,4 @@
 
 Memento Mori if the Nineth Lion Ate the Sun
 
-[Nice Meme](niceme.me)
+[Nice Meme](https://niceme.me)
