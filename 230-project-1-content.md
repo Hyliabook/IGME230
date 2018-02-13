@@ -35,5 +35,7 @@ The game is incredibily easy to figure out, any form of tutorial seems unnecessa
 
 There isn't really a strategy- just eat what you can, and explore whatever region you want.  There will be achievements, but those are pending a future date.
 
+## Mock Screenshots
 
 ![alt text](https://github.com/Hyliabook/IGME230/blob/master/frickingSeagullsScreen1.png "Screenshot 1")
+![alt text](https://github.com/Hyliabook/IGME230/blob/master/frickingSeagullsScreen2.png "Screenshot 2")
