@@ -30,3 +30,7 @@ The player plays as a bird, who when eating objects of a smaller mass, grows- al
 Click/Tap to propel a small burst of flight to the player, just like flappy bird.
 
 The game is incredibily easy to figure out, any form of tutorial seems unnecessary other than maybe a couple of popups.
+
+### Strategy
+
+There isn't really a strategy- just eat what you can, and explore whatever region you want.  There will be achievements, but those are pending a future date.
