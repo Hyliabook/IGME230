@@ -39,3 +39,7 @@ There isn't really a strategy- just eat what you can, and explore whatever regio
 
 ![alt text](https://github.com/Hyliabook/IGME230/blob/master/frickingSeagullsScreen1.png "Screenshot 1")
 ![alt text](https://github.com/Hyliabook/IGME230/blob/master/frickingSeagullsScreen2.png "Screenshot 2")
+
+## About the Developer...
+
+Zach Knowlton, a third year Game Design & Development Student at RIT.  I like stale bread, water without any ice, and the newest season of The Simpsons.  I'm a coder at heart who has a great eye for design- including an **extensive** history in Unity, along with Autodesk 3DS Max, and Adobe Illustrator.   
